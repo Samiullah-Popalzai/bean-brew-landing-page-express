@@ -138,8 +138,8 @@ h3 {
 /* Header */
 
 .site-header {
-  background-color: var(--dark);
-  color: var(--surface);
+  background-color: var(--surface);
+  color: var(--dark);
 }
 
 .header-container {
@@ -149,18 +149,10 @@ h3 {
   min-height: 80px;
 }
 
-.logo {
-  align-items: center;
-  display: flex;
-  gap: 10px;
-  font-size: 22px;
-  font-weight: 700;
-}
+
 
 .logo img {
-  height: 42px;
-  width: 42px;
-  object-fit: contain;
+  height: 60px;
 }
 
 .main-nav {
