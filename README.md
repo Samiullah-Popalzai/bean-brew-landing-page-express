@@ -181,4 +181,4 @@ The project focuses on understanding the fundamentals of building a landing page
 
 ## 📄 License
 
-No license has been added to this project yet.
+All Rights Reserved
