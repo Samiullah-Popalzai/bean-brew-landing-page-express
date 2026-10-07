@@ -20,6 +20,16 @@ https://github.com/Samiullah-Popalzai/bean-brew-landing-page-laravel
 
 https://github.com/Samiullah-Popalzai/bean-brew-landing-page-express
 
+## 📸 Screenshots
+
+### Full Page
+
+![Bean & Brew Express Full Page](screenshots/full-page.png)
+
+### Hero Section
+
+![Bean & Brew Express Hero Section](screenshots/hero-section.png)
+
 ## ✨ Features
 
 - Promotional banner
@@ -55,6 +65,9 @@ bean-brew-landing-page-express/
 │   ├── css/
 │   │   └── style.css
 │   └── images/
+├── screenshots/
+│   ├── full-page.png
+│   └── hero-section.png
 ├── .gitignore
 ├── package.json
 ├── package-lock.json
@@ -163,6 +176,8 @@ I'm particularly interested in building reliable, secure, maintainable, and perf
 Completed as a learning project.
 
 The project focuses on understanding the fundamentals of building a landing page with Express.js and comparing that experience with the Laravel implementation.
+
+## Completed:10/7/2026
 
 ## 📄 License
 
